@@ -18,7 +18,7 @@ const FirstPage = () => {
             <div className="space-y-2">
             <p className='uppercase'> Hi There </p>
             <p className='text-4xl md:text-5xl font-bold text-black/80 -translate-y-3'> I'm Sayed Ayman </p>
-            <p className='text-black/70 text-3xl'> UI/UX Devoloper </p>
+            <p className='text-black/70 text-3xl'> Junior Web Developer </p>
             <p className='text-black/60 '>In the realm of user interface design, every pixel serves a purpose. A well-crafted UI goes beyond visual appeal; It ensures intuitive navigation, accessibility, and responsiveness across devices. As a UX designer, your role anticipate their needs, and deliver solutions that are both functional and delightful For all users.</p>
             </div>
             <div className="">
