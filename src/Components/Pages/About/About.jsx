@@ -79,7 +79,7 @@ const About = () => {
         </div>
         {/* buttons Links */}
         <div className="flex space-x-3 mt-4 text-center items-center justify-center translate-x-4 -translate-y-5">
-          <a href="Sayed-Front End Programmer-CV.pdf" className='primary-btn text-sm' target="_blank"
+          <a href="https://seka10.github.io/Portfolio-V3.0/" className='primary-btn text-sm' target="_blank"
             rel="noopener noreferrer">Download Resume</a>
           <a href="" className='secoundry-btn text-sm'> Contact me</a>
 
