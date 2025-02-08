@@ -80,7 +80,7 @@ const About = () => {
         {/* buttons Links */}
         <div className="flex space-x-3 mt-4 text-center items-center justify-center translate-x-4 -translate-y-5">
           <a href="https://seka10.github.io/Portfolio-V3.0/" className='primary-btn text-sm' target="_blank"
-            rel="noopener noreferrer">Download Resume</a>
+            rel="noopener noreferrer">See My portfolio </a>
           <a href="" className='secoundry-btn text-sm'> Contact me</a>
 
         </div>
