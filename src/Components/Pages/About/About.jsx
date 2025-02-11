@@ -33,7 +33,7 @@ const About = () => {
           </a>
           <a
             className="hover:scale-125 scale social-btn"
-            href="https://www.facebook.com/XSeka10X"
+            href="https://www.facebook.com/profile.php?id=100014948612662"
             aria-label="Facebook"
             target="_blank"
             rel="noopener noreferrer"
